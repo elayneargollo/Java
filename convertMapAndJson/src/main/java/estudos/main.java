@@ -9,12 +9,18 @@ public class main {
 
 	public static void main(String[] args) {
 
+		String texto = convertMapInJson("CPF","000.000.000-00");
+		
+	}
+	
+	public static String convertMapInJson(String campo, Object valor) {
+		
 		Map<Object, Object> from = new LinkedHashMap<Object, Object>();
 		from.put("from", 0);
 		from.put("size", 1);
 
 		Map<Object, Object> campos = new LinkedHashMap<Object, Object>();
-		campos.put("xtr", "0");
+		campos.put(campo, valor);
 
 		Map<Object, Object> match = new LinkedHashMap<Object, Object>();
 		match.put("match", campos);
@@ -27,9 +33,8 @@ public class main {
 		total.putAll(mapping);
 
 		Gson gson = new Gson();
-		String json = gson.toJson(total);
 
-		System.out.println(json);
+		return gson.toJson(total); 
 
 	}
 
