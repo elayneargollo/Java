@@ -1,5 +1,5 @@
 package modernafactory;
-import Interfaces.ISofa;
+import interfaces.ISofa;
 
 public class SofaModerna implements ISofa{
 

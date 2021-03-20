@@ -3,10 +3,10 @@ import java.net.URL;
 import java.net.URLClassLoader;
 import java.util.Scanner;
 
-import Interfaces.ICadeira;
-import Interfaces.IFactory;
-import Interfaces.IMesa;
-import Interfaces.ISofa;
+import interfaces.ICadeira;
+import interfaces.IFactory;
+import interfaces.IMesa;
+import interfaces.ISofa;
 
 public class main {
 

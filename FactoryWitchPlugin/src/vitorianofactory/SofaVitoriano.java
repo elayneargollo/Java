@@ -1,5 +1,5 @@
 package vitorianofactory;
-import Interfaces.ISofa;
+import interfaces.ISofa;
 
 public class SofaVitoriano implements ISofa{
 

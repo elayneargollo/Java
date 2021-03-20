@@ -1,5 +1,5 @@
 package vitorianofactory;
-import Interfaces.IMesa;
+import interfaces.IMesa;
 
 public class MesaVitoriano implements IMesa{
 

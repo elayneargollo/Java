@@ -1,5 +1,5 @@
 package artdecofactory;
-import Interfaces.ICadeira;
+import interfaces.ICadeira;
 
 public class CadeiraArtDeco implements ICadeira {
 

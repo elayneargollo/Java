@@ -1,5 +1,5 @@
 package vitorianofactory;
-import Interfaces.ICadeira;
+import interfaces.ICadeira;
 
 public class CadeiraVitoriano implements ICadeira{
 

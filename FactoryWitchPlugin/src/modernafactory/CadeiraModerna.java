@@ -1,5 +1,5 @@
 package modernafactory;
-import Interfaces.ICadeira;
+import interfaces.ICadeira;
 
 public class CadeiraModerna implements ICadeira{
 

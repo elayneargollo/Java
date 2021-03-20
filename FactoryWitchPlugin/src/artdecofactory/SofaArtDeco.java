@@ -1,5 +1,5 @@
 package artdecofactory;
-import Interfaces.ISofa;
+import interfaces.ISofa;
 
 public class SofaArtDeco implements ISofa{
 

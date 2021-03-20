@@ -1,5 +1,5 @@
 package modernafactory;
-import Interfaces.IMesa;
+import interfaces.IMesa;
 
 public class MesaModerna implements IMesa{
 

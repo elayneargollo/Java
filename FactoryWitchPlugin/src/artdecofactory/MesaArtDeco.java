@@ -1,5 +1,5 @@
 package artdecofactory;
-import Interfaces.IMesa;
+import interfaces.IMesa;
 
 public class MesaArtDeco implements IMesa {
 

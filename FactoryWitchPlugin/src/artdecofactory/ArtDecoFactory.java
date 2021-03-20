@@ -1,8 +1,8 @@
 package artdecofactory;
-import Interfaces.ICadeira;
-import Interfaces.IFactory;
-import Interfaces.IMesa;
-import Interfaces.ISofa;
+import interfaces.ICadeira;
+import interfaces.IFactory;
+import interfaces.IMesa;
+import interfaces.ISofa;
 
 public class ArtDecoFactory implements IFactory {
 
