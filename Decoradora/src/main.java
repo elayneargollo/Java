@@ -10,18 +10,6 @@ import interfaces.ISofa;
 
 public class main {
 
-	/*
-	 * public static void main(String[] args) {
-	 * 
-	 * IFactory factory = new VitorianoFactory(); createProduct(factory);
-	 * 
-	 * IFactory factoryM = new ModernoFactory(); createProduct(factoryM);
-	 * 
-	 * IFactory factoryA = new ArtDecoFactory(); createProduct(factoryA);
-	 * 
-	 * }
-	 */
-
 	public static void main(String[] args) throws Exception {
 		
 		int op;
