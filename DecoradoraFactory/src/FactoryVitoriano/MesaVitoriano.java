@@ -1,4 +1,4 @@
-package FactoryVitorianp;
+package FactoryVitoriano;
 import Interfaces.IMesa;
 
 public class MesaVitoriano implements IMesa{

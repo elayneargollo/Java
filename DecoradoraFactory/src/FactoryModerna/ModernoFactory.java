@@ -4,7 +4,7 @@ import Interfaces.IFactory;
 import Interfaces.IMesa;
 import Interfaces.ISofa;
 
-public class ModernoFActory implements IFactory{
+public class ModernoFactory implements IFactory{
 
 	@Override
 	public ICadeira createCadeira() {

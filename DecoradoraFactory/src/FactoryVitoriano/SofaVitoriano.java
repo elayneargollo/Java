@@ -1,4 +1,4 @@
-package FactoryVitorianp;
+package FactoryVitoriano;
 import Interfaces.ISofa;
 
 public class SofaVitoriano implements ISofa{

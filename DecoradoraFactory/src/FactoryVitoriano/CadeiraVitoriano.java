@@ -1,4 +1,4 @@
-package FactoryVitorianp;
+package FactoryVitoriano;
 import Interfaces.ICadeira;
 
 public class CadeiraVitoriano implements ICadeira{

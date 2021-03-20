@@ -1,4 +1,4 @@
-package FactoryVitorianp;
+package FactoryVitoriano;
 import Interfaces.ICadeira;
 import Interfaces.IFactory;
 import Interfaces.IMesa;
