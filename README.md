@@ -1,5 +1,5 @@
 <h4 align="center"> 
-	🚧  JAva Select 🚀 Em construção...  🚧
+	🚧  Java Select 🚀 Em construção...  🚧
 </h4>
 
 
