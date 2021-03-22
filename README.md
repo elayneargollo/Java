@@ -1,7 +1,7 @@
-+ por Elayne Natália de Oliveira Argollo
-
 ### Java
 
 <p align="justify"> 
-Implementações em java 
+Implementações úteis utilizando a linguagem Java. 
 </p>
+
++ Realizado por Elayne Natália de Oliveira Argollo
