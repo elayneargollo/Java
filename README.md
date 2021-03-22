@@ -5,7 +5,7 @@
 ### Features
 
 - [x] Utilização de Abstract Factory
-- [x] Utilização de plugin com abstract factory
-- [x] Utilização de map
+- [x] Utilização de Plugin com abstract factory
+- [x] Utilização de Map para formação de Json
 
 
