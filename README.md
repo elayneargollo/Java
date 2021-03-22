@@ -6,6 +6,6 @@
 
 - [x] Utilização de Abstract Factory
 - [x] Utilização de plugin com abstract factory
-- [ ] Cadastro de produtos
+- [x] Utilização de map
 
 
